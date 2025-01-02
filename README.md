@@ -5,21 +5,20 @@ This contains a simple Graphical User Interface (GUI) application written in Jav
 
 Technologies Used
 <ul>
-<li>Java: Core language for application logic.</li>
-<li>Swing: For building the GUI.</li>
-<li>MySQL: Relational database for storing user data.</li>
-<li>JDBC: Java Database Connectivity for interacting with the MySQL database.</li>
+🔹 Java<br>
+🔹 Java Swing<br>
+🔹 MySQL<br>
+
 </ul>
 
 Features
 <ul>
-<li>Menu-Driven Interface: A user-friendly menu allows users to select options for various operations.</li>
-<li>Create User: Add a new user record to the database by entering their name, index number, theory marks, and practical marks.</li>
-<li>Display Specific Record: Retrieve and display a user record by its index number.</li>
-<li>Display All Records: List all user records stored in the database.</li>
-<li>Update Details: Modify existing user information.</li>
-<li>Delete Data: Remove a user record from the database.</li>
-<li>Exit: Close the application.</li>
+✅ Menu-Driven Interface: A user-friendly menu allows users to select options for various operations.<br>
+✅ Create User: Add a new user record to the database by entering their name, index number, theory marks, and practical marks.<br>
+✅ Display Specific Record: Retrieve and display a user record by its index number.<br>
+✅ Display All Records: List all user records stored in the database.<br>
+✅ Update Details: Modify existing user information.<br>
+✅ Delete Data: Remove a user record from the database.<br>
 </ul>
 
 
@@ -27,7 +26,7 @@ Features
 
 <h2>This is the Full Demo of the project</h2><br><br>
 
-![Demo](https://github.com/user-attachments/assets/1dc83ff6-45b3-48ef-8272-cb3880a6760f)
+https://github.com/user-attachments/assets/18ef499f-8031-4ecd-85c5-8cf6431103ce
 
 
 <br><br>
